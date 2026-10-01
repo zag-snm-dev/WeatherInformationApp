@@ -16,7 +16,7 @@ export default function HeaderMenu() {
         <nav className="hidden h-full md:flex items-center gap-4 md:text-sm lg:text-base">
           <Link
             href="/favorites"
-            className="h-full flex items-center px-4 active:scale-95 hover:underline hover:bg-linear-to-b from-[#66e0ff] from-5% via-[#6ec0ff] via-75%  to-[#5fa0fa]"
+            className="h-full flex items-center px-4 hover:underline hover:bg-linear-to-b from-[#66e0ff] from-5% via-[#6ec0ff] via-75%  to-[#5fa0fa]"
           >
             お気に入り都市一覧
           </Link>
